@@ -1,5 +1,5 @@
 This repository has a file that contains all the preprocessing steps and model code.
-The dataset used is the famous Fashion Mnist dataset. 
+The dataset used is the famous [Fashion Mnist dataset](https://www.tensorflow.org/datasets/catalog/fashion_mnist). 
 
 Dataset Summary:
 
@@ -10,4 +10,6 @@ Dataset Summary:
   * Purpose: Fashion MNIST is intended to be a drop-in replacement for MNIST, offering a more challenging classification problem while still being small and manageable for testing machine learning algorithms.
   * Usage: It is widely used for testing and benchmarking image classification algorithms, serving as a standard for comparing different models and techniques in machine learning.
 
-More details about the dataset can be found here ---------> https://www.tensorflow.org/datasets/catalog/fashion_mnist 
+More details about the dataset can be found [here](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
+
+Feel free to use this code however you like. If you have any suggestions feel free to contact at [linkedin](https://www.linkedin.com/in/hamza-amir-0616m) or through email; hamzaamir0616@gmail.com
